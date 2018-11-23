@@ -5,7 +5,9 @@
 
 > Manage your Lock status with /adminvehlock or /alock
 
-## Useing:
+## Used includes:
 y_hooks by Y_Less
+
 Utils by ?
+
 ZCMD by Zeex
